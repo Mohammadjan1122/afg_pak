@@ -28,5 +28,5 @@ Termux new commands 👇
 9. chmod +x *
 10. python2 Afg_pak_clone.py
 
-User: Teemux
+User: Termux
 Pass: Master
